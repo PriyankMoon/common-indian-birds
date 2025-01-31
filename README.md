@@ -38,7 +38,7 @@ After downloading, place the dataset inside the `preprocessed-dataset` folder.
 mkdir project-folder && cd project-folder
 ```
 ```bash
-git clone https://github.com/PriyankMoon/common-indian-birds.git
+git clone https://github.com/PriyankMoon/common-indian-birds-detection.git
 ```
 ```bash
 cd common-indian-birds
