@@ -86,4 +86,3 @@ This project is licensed under the MIT License. Feel free to use and modify it! 
 
 ## ⭐ Contributions
 - Contributions are welcome! Feel free to fork the repo and submit a pull request.
-- For any issues or improvements, contact your-email@example.com 📩
