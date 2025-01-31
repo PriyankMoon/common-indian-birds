@@ -31,6 +31,9 @@ After downloading, place the dataset inside the `preprocessed-dataset` folder.
 
 ---
 
+
+
+# 1️⃣ Running Locally
 ## 📥 Installation  
 
 ### 1️⃣ **Clone the Repository**  
@@ -82,6 +85,26 @@ After training, or if you're using a pre-trained model, start the app:
 streamlit run app.py
 ```
 This will open a web interface in your browser, where you can upload an image and get predictions. 🎉
+
+# 2️⃣ Running On Google Colab for free resources
+
+## 🖥️ Google Colab (For Limited CPU/GPU Resources)
+
+If you do not have access to a powerful CPU/GPU for training, no worries! You can run the project on Google Colab for free. I have provided a Jupyter Notebook file (`Indian_Birds_Classification.ipynb`) that you can upload to Google Drive and run on Colab. Here's how:
+
+1. Download the Jupyter Notebook file `Indian_Birds_Classification.ipynb` from this repository.
+2. Go to [Google Colab](https://colab.research.google.com/).
+3. In Colab, click `File` -> `Upload notebook...` and upload the `.ipynb` file.
+4. Make sure you upload the dataset to Google Drive, and modify the file paths in the notebook accordingly.
+   - Update the dataset path in the Colab notebook to point to your Google Drive folder.
+
+---
+
+> **Note**:  
+> Ensure that the folder structure in Google Drive matches the local folder structure in the project. The dataset path should be updated in the notebook to match the location in your Drive.
+
+---
+
 
 ## 🔧 Additional Notes
 - Ensure you have Python 3.7+ installed.
