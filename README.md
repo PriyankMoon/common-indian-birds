@@ -36,14 +36,21 @@ After downloading, place the dataset inside the `preprocessed-dataset` folder.
 ### 1️⃣ **Clone the Repository**  
 ```bash
 mkdir project-folder && cd project-folder
+```
+```bash
 git clone https://github.com/PriyankMoon/common-indian-birds.git
+```
+```bash
 cd common-indian-birds
 ```
+
 
 
 ### 2️⃣ **Install Required Libraries**  
 ```bash
 pip install torch torchvision torchaudio
+```
+```bash
 pip install numpy pillow streamlit
 ```
 
